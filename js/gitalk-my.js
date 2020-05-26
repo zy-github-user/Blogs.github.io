@@ -3,11 +3,11 @@
 function lablegen(hook) {
     hook.doneEach(function () {
         gitalk = new Gitalk({
-            clientID: 'ced6988e6ccedf962b67',
-            clientSecret: '73a32399b7eda1c3142aa163775550aa214b056a',
-            repo: 'zshorz.github.io',
-            owner: 'zshorz',
-            admin: ['zshorz'],
+            clientID: '9bacad4a134431766d08',
+            clientSecret: 'ff66cbecb431f56d471aa76075246489da7851fa',
+            repo: 'Blogs.github.io',
+            owner: 'zy-github-user',
+            admin: ['zy-github-user'],
             id: hex_md5(window.location.pathname + window.location.hash.split('?')[0]),
             distractionFreeMode: true
         });

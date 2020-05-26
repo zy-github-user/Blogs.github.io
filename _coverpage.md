@@ -1,5 +1,5 @@
-![logo](img/avatar.svg ':size=100%')
-# kirito's blog
+![logo](img/avatar.png ':size=100%')
+# ZhaoDaBao's blog
 
 <!-- [GitHub](https://github.com/docsifyjs/docsify/) -->
 <!-- [Get Started](README) -->
