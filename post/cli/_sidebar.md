@@ -1,7 +1,0 @@
-* [返回](/README)
-* [curl](/post/cli/curl)
-* [gdb](/post/cli/gdb)
-* [git](/post/cli/git)
-* [grep](/post/cli/grep)
-* [objdump](/post/cli/objdump)
-* [tcpdump](/post/cli/tcpdump)
