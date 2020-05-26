@@ -1,4 +1,4 @@
-![logo](img/avatar.png ':size=100%')
+![logo](img/avatar.svg ':size=100%')
 # ZhaoDaBao's blog
 
 <!-- [GitHub](https://github.com/docsifyjs/docsify/) -->
